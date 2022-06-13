@@ -1,0 +1,16 @@
+1) admin login
+2) user login,register
+
+3)Admin(superuser) must add usertype as 1
+
+Tables
+1. Categories
+2. Questions
+3. Answers
+4. Results
+5. Users 
+
+4)User
+
+select category and start quiz
+after the quiz get own results in dashboard
